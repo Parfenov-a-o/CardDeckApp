@@ -1,0 +1,17 @@
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\CardDeckApp.exe
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\CardDeckApp.deps.json
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\CardDeckApp.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\CardDeckApp.dll
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\CardDeckApp.pdb
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.dll
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\refint\CardDeckApp.dll
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.pdb
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\ref\CardDeckApp.dll
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aleksandr\source\repos\CardDeckApp\CardDeckApp\obj\Debug\net6.0\CardDeckApp.csproj.CopyComplete
